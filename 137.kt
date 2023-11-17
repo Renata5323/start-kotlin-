@@ -15,6 +15,6 @@ fun main(){
     val l: Char = 'q';println(l)
     //Строки
     var k:String ="qwe";println(k)
-	//Логика
-	var j : Boolean= true; println(j)
+    //Логика
+    var j : Boolean= true; println(j)
 }
